@@ -1,0 +1,30 @@
+task_name: 'mrpc'
+training:
+  learning_rate: 0.00005
+  num_train_epochs: 10
+  per_device_train_batch_size: 12
+  per_device_eval_batch_size: 24
+  warmup_steps: 100
+  weight_decay: 0.001
+  output_dir: 'loras/GLUE-lora-t5/mrpc'
+  logging_dir: 'loras/GLUE-lora-t5/mrpc/logs'
+  save_steps: 500
+  do_train: True              
+  greater_is_better: True 
+  metric_for_best_model: 'loss'
+  evaluation_strategy: "steps"
+  save_total_limit: 500
+  eval_steps : 500
+  logging_steps: 10
+  load_best_model_at_end: True
+  label_names: ["labels"]
+  eval_accumulation_steps: 2
+
+lora_config: 
+  r: 8
+  lora_alpha: 32
+  lora_dropout: 0.08
+  target_modules: ["q", "v"]
+
+rand_seed: 42
+

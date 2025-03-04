@@ -1,0 +1,111 @@
+seed: 42
+
+GLUE_t5:
+  max_iter: 10
+  per_device_eval_batch_size: 16
+  task_targets: ['mnli',  'cola']
+  with_pretrain_matrix: 0
+  model_name: "google/flan-t5-base"
+  max_length: 256
+  lora_alpha: [32, 32]
+  manual_ceof: [1, 1]
+  alpha_1: 0.0000001
+  alpha_2: 0.0000001
+  reg_ceof: 0.0
+  rank: 8
+  select_long: 1
+  samples_num: 50
+  if_divide: False # For OOM case
+  if_balance: True # When the types of the label are too many, the labels of the samples that we take should be balance
+  shuffle: True # When select the sample
+  inner_num: 4
+  outer_num: 5
+  save: 0
+
+GLUE_bart:
+  max_iter: 10
+  per_device_eval_batch_size: 32
+  task_targets: ['qqp',  'mrpc']
+  with_pretrain_matrix: 0
+  model_name: "facebook/bart-base"
+  max_length: 256
+  lora_alpha: [32, 32]
+  manual_ceof: [1, 1]
+  select_long: 1
+  samples_num: 50
+  alpha_1: 0.0001
+  alpha_2: 0.0001
+  reg_ceof: 0.0
+  rank: 8
+  if_divide: False
+  if_balance: True # When the types of the label are too many, the labels of the samples that we take should be balance
+  shuffle: True
+  inner_num: 2
+  outer_num: 5
+  save: 0
+
+EMOTION_t5_large:
+  max_iter: 24
+  per_device_eval_batch_size: 8
+  task_targets: ["emoint", "emotion-cause","tec", "isear"]
+  with_pretrain_matrix: 0
+  model_name: "google/flan-t5-large"
+  max_length: 100
+  lora_alpha: [32, 32, 32, 32]
+  manual_ceof: [1, 1, 1, 1]
+  select_long: 1
+  alpha_1: 0.00008
+  alpha_2: 0.00008
+  reg_ceof: 0.0000
+  rank: 8
+  samples_num: 60
+  if_divide: True # For OOM case
+  if_balance: True # When the types of the label are too many, the labels of the samples that we take should be balance
+  shuffle: True # When select the sample
+  inner_num: 6
+  outer_num: 10
+  save: 0
+
+TASKS_blip_base:
+  max_iter: 6
+  per_device_eval_batch_size: 24
+  task_targets: ['positive', 'negative']
+  with_pretrain_matrix: 0
+  model_name: "Salesforce/blip-image-captioning-base"
+  max_length: 168
+  max_new_tokens: 42
+  lora_alpha: [32, 32]
+  manual_ceof: [1, 1]
+  select_long: 1
+  alpha_1: 0.0000008
+  alpha_2: 0.0000008
+  reg_ceof: 0.0
+  rank: 32
+  samples_num: 50
+  if_divide: False 
+  if_balance: False 
+  shuffle: True 
+  inner_num: 2
+  outer_num: 4
+  save: 0
+  # max_iter: 6
+  # per_device_eval_batch_size: 24
+  # task_targets: ['roman', 'humor']
+  # with_pretrain_matrix: 0
+  # model_name: "Salesforce/blip-image-captioning-base"
+  # max_length: 128
+  # max_new_tokens: 42
+  # lora_alpha: [32, 32]
+  # manual_ceof: [1, 1]
+  # select_long: 1
+  # alpha_1: 0.0000008
+  # alpha_2: 0.0000008
+  # reg_ceof: 0.0
+  # rank: 32
+  # samples_num: 50
+  # if_divide: False 
+  # if_balance: False 
+  # shuffle: True 
+  # inner_num: 2
+  # outer_num: 4
+  # save: 0

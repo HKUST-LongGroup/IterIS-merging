@@ -1,0 +1,3180 @@
+[
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:However , I thought you might share my amusement at the thought of baked beans at a low tension ! ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The anger and astonishment in her face gave way to something very like pity . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I got the impression that he was extremely alarmed about his own position and was determined to eliminate any risk for himself by a massive change of Government . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When they got to the florist and Georg saw his father emerging he really was cross , so cross he leapt out from the driver 's seat and intercepted Willi on the pavement . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He added : ` I 'm astounded he has not been on the fringe of the Dutch team . \" ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Both were crestfallen after Stevie 's erratic performance on the 17th . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Everyone will be sad at their departure . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The Germans themselves , reported William Shirer , seemed glum and resentful at the prospect of war . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was offended and took it all personally . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I should think you 're pleased , are n't you ? \" asked Charles genially . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In her incensed whisper she called me names I did n't understand . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:John had been moved to Norfolk and promoted to Corporal and he wrote to Anne nearly every day , loving letters which helped to make her grief for her mother more bearable . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I was astonished at the smallness of the area which these enclosed . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Despite moments of despondency , de Gaulle himself certainly did not give up hope . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Goebbels himself had signed her travel papers under pressure from his sympathetic wife Magda , who had mistaken Lais 's hysterical sobs for sorrow at Karl 's death . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I was responsible for Community Programme for the last 18 months of its life , so I 'm delighted to be involved in introducing Community Action . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I used to stutter a lot in those days , I was a very frightened boy . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Louise was overjoyed with the suggestion . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She seemed nervous at first , then almost resentful of the older woman 's presence . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Lily shot a quick horrified look up and down the road . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They seemed happy about my victory in Germany and most of them expected me to win more races last year . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:For the owner , it can mean heartbreak at the loss of a family pet . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He ignored the affronted expression that crossed Isabel 's face at this sardonic rejoinder , and continued . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I kept trying to get back to Changez 's lugubrious face , which reclined morosely in his good hand as the guests filled the air around him with cultivated noises . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Thus the dialogue and its frame emphasize the bond between the two of them , and thereby further underline the horror of the sacrifice of which they speak . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As trains halted , the orchestra struck up Aaron Copland 's Fanfare For The Common Man much to the amusement and delight of curious passengers . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her expression became dreamy , ecstatic . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Strangely , she felt more resentful of this lady 's peremptory commands than she ever had of those of the merchants ' wives she had previously been obliged to swallow . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Many parents experience deep pain and despair about their teenage children . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The man seemed stunned . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The veterans have become increasingly alarmed at the incidence of illness -- especially cancers amongst the 20,000 who were present at the tests . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` You will not regret it , \" the cardinal told her , observing the prince 's elation and guessing its cause . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Yussuf had been quite inconsolable . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She seemed to be almost floating and Maggie was astounded that the sharp stones had not given her enough pain to waken her . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Despite a flaring anger at this impertinence her eyes were drawn to the strong column of his throat as he swallowed . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Mayor 's chaplain Tony Rees was furious he had n't been refunded a 187 overpayment . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I think everyone is very pleased they 've changed their minds , \" said England 's most-capped player , Rory Underwood . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As lieutenant-governor , he is remembered for fleeing down the statehouse fire escape to avoid senators ' anger over his choice of committee assignments . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Typically , Gould 's infrequent letters home detailed only his ornithological exploits , much to the dismay of the household , who were desperate to hear news of a more personal nature . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Feeling thoroughly disquieted , she left her room in a rush . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Jack was mad and even madder with the American scandal magazine the National Enquirer , too , although that was nothing new . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` We are sad for Jason Livingston . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When the marchers passed the city 's overhead railway , two trains hooted in solidarity , to the crowd 's delight . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Interpersonal arguments and difficulties were also a more common feature of the experiences of depressed patients than of the comparison group . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:At first I could not understand -- but then when she had , whispering , explained properly , I was filled with a desolate , despairing horror . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Temperamental differences operate once more with this new trio of junior heroes , whose elders , the three lieutenants , regard their pranks with mild amusement . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:What a visiting Londoner sees as the soaring grandeur of New York , a fed-up New Yorker sees as sunlight deprivation . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The waitress returns , now indignant with her boss for his bought-and-paid-for apathy . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Jess felt faintly indignant at the remark . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I felt elated , especially when he said , ` I 'm looking for an actor just like you . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In their communiqu , the finance ministers could usefully point out that the current despair  over eastern Germany is overdone . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Dotty flushed with annoyance . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:We huddle beneath the covers , but to our dismay , the one duvet is but a slim pink layer of fabric resembling a furniture cover . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The commercial ethic meant some deterioration in standards , while the cutbacks in the Overseas News department , one of the glories of Bush House , caused much dismay in the public communications world . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A Swedish couple and a German guy sitting near me were on their feet , that sickened expression on their faces too . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He is portrayed as showing sorrow at the destruction caused by German bombers and it is he who ` saves the day \" by first giving himself up and then being shot by Clogger . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was a trace of exasperation in his voice as he said : ` I 've told my promoter Dan Duva that I want to fight all those contenders that the people want me to fight . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He looked very sad . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He felt too let-down and disgruntled . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Then Isabel saw Ellen 's stunned face and realised that her maid , at least , did not know she had spent the night alone . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He 's a very contented baby , a joy to his parents and big sister , and today at nine weeks old ( 40+3 ) , he smiled at us for the first time . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Did n't seem too pleased about something . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She saw his fear , his bewilderment , and above all , a kind of astonishment at the enormity of the complications that lay ahead . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Afterwards , he was quietly ecstatic . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her disgruntlement arose from the now obvious fact that the prince was enamoured of Joan . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:This ` return to the sources \" discovers either that such primitive celebrations are entirely divorced from modern sexuality , or that they always concealed a deathly horror . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` But my chairman and vice-chairman have given me another year 's contract , and I 'm absolutely delighted to be staying at Nottingham Forest . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I was suddenly infuriated at the thought of what we had believed about the Germans in England . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise: I 'm frightened for him . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He uttered a short sharp bark , which made Rosie jump ; she assumed it was a cough , then realised that it was intended as an expression of amusement . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They must have been amazed and resentful that Pyke wanted to listen to me , of all people , someone who was barely an actor . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A miffed European Parliament head , President Jose Maria Gil -Robles , who is visiting Paris , promptly canceled a scheduled stop at de Charette 's office --- pending an apology .?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She shot him a look of exasperation . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Applause rang out , and she twirled around to acknowledge it in demure delight , clapping the barman -- and then being crushed against the ample bosom of the barman 's wife . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And having made the mistake a bird seldom gets a second chance , for the startled butterfly takes off , not in the direction the bird might have expected but , apparently , backwards . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Court sounded almost indignant . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I think your friend Billy and his fellow commandos were a bit peeved to find themselves here after the horse had bolted , so to speak . \" ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:So we 're quite excited about it and also it 's quite a major problem . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He paced about for some time , looking agitated . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:France expressed horror at the assassination and appealed for unity to assure peace in the country it once ruled . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Leo demanded as he wrenched back to stare down into her almost terror-stricken face . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Nervous for Meh'Lindi 's safety ? ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Before she could utter the cry of alarm which rose in her throat his hand had closed over her mouth , and Paige 's startled eyes blinked at him over the top . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I have received no representations on that matter and I am not aware of any disquiet among the groups that the hon. Gentleman described . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The priest became agitated . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The delight at being finally united with Joan was tempered by a feeling of discomfort about Ronnie Leahy . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The ready availability of a screening questionnaire that mothers at risk can complete under supervision in a few minutes is potentially useful , but only if health workers and others can rise to the needs of depressed mothers . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Tabitha Campbell-Black was livid because she won a bag of Bailey 's Performance Mix horse feed rather than a T-shirt with a picture of a polo pony on the front . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I have climbed it from all sides , every time making new discoveries , finding new surprises and delights and , let me confess , secret places from which I have recoiled in horror . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rose stood looking down at her , a worried expression in her eyes . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Both Mr Pitman Senior and Junior were reps who grew progressively despondent over the standard of rooms and services they encountered on their travels . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Indeed , the two M boys themselves were not totally happy at first at having these initially undisciplined children visiting their home and generally being around on a regular basis . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:At first , she was utterly bewildered when he burst out laughing . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He looked away , a bitter anger in his eyes . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Aside from the fact that Jill is quite capable of carrying her own books , her glumness could easily be due to being a young lesbian forced to suppress it and wishing Jack would take his stupid pick-up lines elsewhere . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` They say the king 's left Welshpool with a small escort ahead of the army , \" volunteered a boy a yard or so in front of them , turning an excited face . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A heartbroken Daniels watched this all going on , and was moved to break the golden rule of not speaking until spoken to . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Morrissey was ecstatic at the response . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They must be mad that they should expect such a delicate business as his preparation of Vologsky to be speeded up as though it was a crude operation on a factory bench . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There must be another reason why you are so sad , \" he said , looking kindly at me . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was something in the journalist 's manner that goaded Blanche 's exasperation into anger . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The day was high and bright , the salt tang seasoning the after-pulse of summer heat which still hung in the air , but nothing could shift my sense of despondency , nagging depression . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When I was 15 I was in a depressed state and I thought , I 'll do these last paintings about the end of the world and then I 'll end it . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rose was excessively clinging in her behaviour and anxious when Clive was either late , as he often was , or away on an extended business trip . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` You can imagine our horror at finding a false ceiling in a secure establishment and ducts like this . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His face was completely serious , even slightly mournful . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rock became aware that the thrilling , magical father , who had taken his young son backstage , on the road , drinking , water-skiiing , was gradually becoming a resentful tyrant . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her face must have registered dismay at having to tell Peter what had happened , for he gave a narrow smile . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Some people simply were miffed by the red tape in applying for victim identification cards to qualify for the 100,000 yen .?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her stumbling repetition masked a growing delight at his basic error . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Athelstan rubbed his mouth with his thumb and gazed directly at Cranston 's sorrowful face . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:MOST of those who read Glenys Roberts 's moan ( March 15 ) and who know Monaco felt , I suspect , more sorrow for the author than disdain for the place . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Gus said : ` Of course ! \" in a slightly startled voice , and visibly withdrew his vision and his thoughts from some distant preoccupation in which she had no part . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I 'm very pleased with how we 've reacted to our bad start to the season . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And Victoria now pulled her granddaughter past the indignant old lady , whose face was expressing shock . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Then , in response to my crestfallen look , he added kindly : ` Of course you did not look gay -- you 're no screaming queen -- but nevertheless I just knew . \" ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She stopped , horrified at what she had been about to say . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` A great number , \" said the astounded Mrs Phelps . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I am startled to find myself addressing you instead . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The Gorengs made their home in the former diplomatic quarter , the area which had , to the glee of the Chinese in the Toku-ru warehouse , been accidentally shelled by the malai navy on invasion day . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As a gentleman of considerable physique , Guttersnipe is naturally alarmed at such prejudice against the nutritionally challenged . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Upon his arrival , he was nonplussed to find the yard and buildings deserted . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She glanced down at the linoleum in despair . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:LEE SHARPE last night relived the anguish of discovering he had a disease which he feared could not only end his career -- but kill him . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:To express their grief over the Warrington atrocity , the people of Dublin sent thousands of floral tributes to Liverpool this morning with the Irish Air Corps . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` The popular story is that he was so heartbroken he ran off to join a religious order , and has since been ordained . \" ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And even as I did I was astounded at myself . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Do you have a delight in animals and skill in their management ? ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A vexed expression crossed Louise 's pretty face . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:That concern turned to heartbreak when they heard of his mother 's grim fate . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The journey was taken at a leisurely pace because of the trailer , yet , despite her dejection , Matt 's reminiscences caused it to pass rapidly . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Alison had shown enough respectable horror on discovering that he was married to prove she was a nice girl . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Though relieved , and fiercely delighted that she had apparently stopped him in his tracks , Polly was apprehensive about going back up on deck . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He could see no way out and in his anguish he began to think of doing himself in ; the method he would use would have to be quick and simple . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And then , unable to be cross with him for long , you shift your feelings over to the critic . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:SHE was once considered one of the world 's most beautiful women , but yesterday every line etched on Britt Ekland 's face told a story of personal anguish . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It emerged that , in conscious and especially in excited or agitated patients , the drug produced a remarkable state of inactivity or indifference . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It 's not just health problems they suffer but many people can get really depressed living in houses where they have to keep washing the mould off the walls . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rune frowned as his eagle-eyed regard read the despair on her face . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They caught a suspicious individual one evening , and turned him over to the police ; but he turned out to be a frightened bilberry-picker who had lost his way . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Shackel became indignant and said he would fetch a magistrate and complain about the Chief Constable 's attitude , which he did . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Then why are you looking so glum ? ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The Odones were left stunned when they were told in 1984 at the Children 's Hospital in Washington DC that their fun-loving , brilliant six-year-old son -- he already spoke three languages -- had ALD , and was under sentence of death . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Kate 's voice was husky and bewildered . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I remember my despondency in 1926 when Abd al Karim was forced to surrender to the French . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I 'm so frightened the feeling will go away , it 's too fragile , and I do so want it not to break . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She sounded very disappointed and David knew she was suppressing her exasperation . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Be prepared to train twice as hard on your weaker side and each time you feel fed-up through lack of progress , switch to your stronger side to give yourself a boost . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The EC was infuriated . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Their findings indicate measurable differences between normal and depressed women . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Penelope Huntley sat silent through this speech , chain-smoking , her eyes downcast . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The butcher becomes incensed . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In spite of everything , Burun felt depressed by the whole affair and could not understand why . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I enjoyed his excitement with politics . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She 'd be heartbroken if her father was n't at her wedding . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:David is concerned at the length of time he says it took for an ambulance to arrive . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Equally inevitably , there was outrage and dismay in India . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Neighbours recalled how Ms Bailey was overjoyed at the birth of her daughter . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Breakfast was quite a social affair as we were frequently visited by new found friends in the shape of two fat and very vocal geese , a young swan and a bevy of excited ducks . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Somehow she rose over her excitement , though , and concentrated all she could on the task at hand . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was absolutely livid . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` All her colleagues are devastated , she was a popular wee girl . \" ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:At the same time , I 'm elated and I can go back to the vices I did have , \" said Mr Tyson . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Now as he strode north determined on its recovery he was ashamed and astonished at his own folly . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His poor scrawny hands grip the arms of a wheelchair pushed by his adoring wife with the now familiar expression of a too-bright smile and devastated eyes . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A group of thirty or forty downcast men stood apart in the canter of thin ring , their heads and arms hanging slack in attitudes of despair . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Now Mr Rifkind has written to the BSC chairman , Sir Robert Scholey , asking for further assurances after meeting anxious union leaders . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The profound anguish and hopeless despair of this woman in the face of what she believed to be the moral ruin of her whole life can not well be described . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Was it sad because its mummy was nasty to it ? \" he said . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When Lansdowne communicated his despair about the war to the press in 1917 and called for negotiations , there was a storm of protest . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Listening to parents in the playground and at more formal events such as parents ' evenings should alert staff to early stages of parental disquiet . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Elaine Morris stared out of the window in astonishment . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I WAS sad and also slightly amused to read the recent letter from a reader about the skilled worker only being offered 3 an hour . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was furious with me . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The other side of the story is the pain felt by women when their children suffer , and their bewilderment when that suffering is self-inflicted . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Barely registering Gwen 's horrified face , she turned and whirled out , crashing the back door against the wall so hard that the echoes seemed to follow her fleeing figure . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:On one of our visits we found a representative of the Occidental Oil Company stranded there , looking most miserable and bedraggled in the morass of mud and pouring rain . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was a contented man for he had a good wife , a prosperous farm in Upper Caversham some four miles from Reading market , had had a good season and a financially successful day . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When Annie 's daughter died at the age of five , she was heartbroken . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The despair in their father 's voice had sent a sudden chill of apprehension through the brothers . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Good heavens , no , lady \" came the indignant reply . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He saw Maud once in the Kurfrstendamm , eating alone in a cafe and looking a little desolate , with a stack of coins already piled beside her plate although her meal had only just come . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:This ` instinctive revulsion from regulation \" is the foundation of his libertarian heritage and it gives rise to a particular vision of how broadcasting should develop and what its purposes should be . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Imagine my horror at seeing her step out followed by a man ! ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And it was equally insistent that a policy of retreat would cause dismay in Washington , thereby diminishing Britain 's ability to exert influence over American policy . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Donna seemed quite excited about it . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:For a girl brought up in a Christian Science home there was a certain frightening kind of excitement about medicine , like drink for a teetotaller ; but otherwise she found the work harrowing and repellent . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:How does it make someone like a woman who has just had an abortion feel having to go to a lavatory to express her grief in tears ? ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:This would normally push up her heart rate but with her pulse already racing due to the alcohol , dancing and general party excitement the increase is not as noticeable as normal . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I go along and watch women 's football and get really infuriated to see a man out there refereeing the game , and often in a very condescending manner ! ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The bull tossed the effigy out of their hands and became very infuriated . \" ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Even my father was n't too pleased about continually having to clean his porch roof , which our residents had covered in droppings and other nest debris . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was a man drowning his sorrows , he 'd decided . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:THE Princess of Wales has once more caused disquiet among fashion commentators by sticking to her own rules . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Successive state elections have seen the governing parties pummelled by a dismayed electorate . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Feeling desolate , she climbed back into the car , not daring to look at Roman in the silver moonlight . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Me , I 'm miserable that it 's all beginning . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Furuseth was furious with himself . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Alexandra grew even crosser as it became obvious that Matthew had been invited in his own right . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He felt their resentful eyes burning the nape of his neck . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was feeling hurt and a little bewildered . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:John 's father came down from Cheltenham to see her , grieving and concerned for her future . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was on her feet taking his hand , smiling at him , telling him how delighted she was to meet him . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I could tell she was angry and I was ready to cry , but Frankie pulled me roughly back off the step and we turned to leave . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:At the beginning of the O-level summer term I weighed eight stone three pounds and , if I was pleased at having lost two pounds , I certainly did n't say so . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` You 're cross because I was honest when I spoke to you that night . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Imagine the horror on my beloved 's face when he discovered I had in fact flung in the rubbish his much prized and read collection of Guitarist magazines ! ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He smiled a little , without altering the sad expression . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Benedict was on his feet , overturning his chair in one violent gesture , a face of livid fury turned on Theda . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Len looked apologetic and woebegone , and mumbled something about not letting down his mates . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She felt disquieted at the lack of interest the girl had shown -- anything might happen in this sort of house , she told herself indignantly . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But Richard 's elation at regaining his health was short lived because his kidneys started to fail . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I join the hon. Gentleman in expressing our sorrow at that tragic loss . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Informed by the queen-dowager of their decision , resentful at being refused permission to return home , Anne made her displeasure plain . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Suddenly becoming aware of his blue gaze being levelled in her direction , she turned a smile into a cough , and promptly spilled coffee into the saucer . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Not everybody wants   and trailed into silence , for Lily 's eyelids were now fluttering , holding back offended tears . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was heartbroken to hear the voice of Camilla . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He could see Harry 's puzzlement . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Philip was mad at himself for not taking the cutters off the boy . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` We 're particularly concerned about the increase in incidents involving youngsters of 11 and 12 , especially girls , \" said founder Regina Dollar . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:YEOVIL TOWN captain Mark Shail was heartbroken last night over the rash moment which may cost him the chance of playing in the dream FA Cup tie against Arsenal . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:`` I am outraged and revolted by the decision of my supervisors .?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She gave him a quick amused glance , her head leaning back against the faded red of the alcove seat . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Meanwhile the dejected opposition leader , John Hewson , reacted to his crushing defeat yesterday by abandoning key policies which he had trumpeted as essential for Australia . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Many of the youngsters feel resentful that society is kicking them out . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her cheeks were already aglow from a combination of the heat and the exhilaration of being the centre of attention , and this had lent an extra , youthful radiance to her beauty . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Give over , will yer , \" pleaded the disconsolate convener , slapping jam on his butty . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Bernice was so angry she could hardly speak . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Walter Matthau and Jack Lemmon get miffed because her establishment will replace two of their favorite hang-outs .?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:However , she had no intention of revealing her gratification to Anne . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Annabel said in an agitated voice , ` I feel as if my mind is whirling madly , like a hurricane . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And Ryan had spent more than one night under the roof with her , she remembered in bitter anguish . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Mrs Thatcher has mastered the sound-bite , to be repeated at intervals like a mantra : ` So very pleased with how it 's going . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` If you do n't help me , I shall make you more miserable than you have ever been in your life . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Mansell was livid and admitted he ran away from the scene of the accident to avoid being tempted into big trouble . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:One woman , who already had a job and a busy life of her own , was surprised to find how sad she felt when her children left home in quick succession . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And I know that 's miserable for you , but what else can you do ? \" ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She sounded a little low-spirited . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She felt rather riled . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He liked to think of her being pleased at getting a letter . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Some of his actions , in particular the unexpected introduction of a constitutional amendment allowing for an elected Vice-President and the subsequent appointment of Moudud Ahmed to that post , caused some disquiet among party members . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She is furious that he has married beneath him , but appalled when her vicious attack on him threatens to end their relationship for ever . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He saw her glance up in puzzlement and ask why he was still fully dressed . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Most pool owners are thrilled if they can persuade their fish to breed successfully . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It joined me for the rest of the holiday , much to the annoyance of my fellow passengers . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was amusement in Jake 's voice , but there was something else as well . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Joan 's great skill , then as now , was to be completely nonplussed by anything Richard did . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In the end he had little real choice but to join in and , if not exactly enjoy it , at least to take comfort in her gratification . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` It gobbled up the bird in one go , \" said a mournful bird-watcher yesterday . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:THE Italian writer Primo Levi died on 11 April 1987 , to the dismay of his readers . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But Christine felt vexed when at the next Pack Meeting Sarah lost points for the Six through being a slowcoach . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Zen preferred to think that some alert recruiting officer somewhere , realizing the appalling threat a disgruntled Gilberto would pose outside the law , had bent the rules to let him in . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was angry about class , hypocrisy and the establishment . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Wayne will be livid when he hears . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:\" A little offended , Bagshot put the key in the lock and opened the door . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Nothing happened -- not that she 'd really thought anything would -- although there was a nervous tingle in her fingers . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Doisneau is a small , bird-like man with mischievous eyes and a gleeful laugh . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When he came to the part about the clip he glanced up , and she saw the flare of excitement in his silvery-green eyes before they dropped once again to the page . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was one other horrified observer of the scene . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Some economists feel deep disquiet at the use of food grains to produce motor spirit . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Now that he was committed to a course of action he felt exhilarated . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Aston Villa are having a great run , but they hold no particular horrors for the Norwich players . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Germans were resentful of France 's post-war attempts to keep them under close control , and it could not automatically be expected that they would agree to join European institutions . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When Anna left Inspector Aziz , she was much happier . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her excitement shone in her eyes as she showed him her sketches . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:We were confused and anxious when we were not understood . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The old hands at machine knitting glibly talk about ` two-thirties \" to the bewilderment of the newcomers at the knitting club . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She would be doubly furious at having been deceived in exactly the same way by two successive men . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In a low , resentful voice , Cullam said , ` I was sick . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Vincent agreed , too low-spirited to put up any resistance . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Neither he nor Peter can conceal excitement at being back in the limelight again . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:`` We feel at this point actually quite exhilarated , '' said Nicola McIntyre of San Francisco .?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:More then 40,000 ecstatic fans filled stadia each night to scream at the girly they instantly dubbed the Mighty Minogue . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rebecca went in search of her bag , and Lissa sent an irate look in Adam 's direction . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I saw the frightened horses on the edge of a steep drop . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I 'm astonished at what you 've achieved , Kitty . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:\" She looked fondly at Anne ` s bright eyes and happy face . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I was devastated , I wanted him back , \" Carol said after the hearing at Fareham . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Benny looked around him , a bewildered expression on his face . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was really no reason why Star should be cross . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:We are more despondent and needy than ever ! ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He refused to be roused by her anger , suspecting she was furious he 'd turned down her invitation to stay . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` They take young grandpas , \" said Linda , amazed and overjoyed he 'd had the idea for himself and still not able to get over her daughter 's news . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:If so , he would undo her revulsion with tonight 's business . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But the sense of elation was short-lived . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was gleeful about the idea of a Faber ` Vaudeville \" production in 1929 where he starred as a baritone singing Bolovian Ballads and a song about a blue baboon . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Whether the cries of anguish for 1991 alone are justified remains to be seen . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She took two or three large breaths over the top of her bag of groceries , while Mrs Stych watched her stupefaction with complacency . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was dismay in Belgrade . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:However , I quite enjoyed describing the horrors of my creation , and shared with Edward Young , the architect , his revulsion for the hideous house , covered in peeling stucco , as chilling within as without . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I remember being highly amused at his rendering of a young rook 's cry whilst gobbling a worm : it was perfectly true to nature  . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Small children of two or three tend to be alarmed at a banana-skin fall , not amused yet . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Leonora lay rigid in his arms , resentful of being carried about like a bundle of laundry . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Captain McArthur was a musical comedy aficionado , and not pleased when Mrs Kingswood spoke critically of the form . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A depressed person may cry a great deal , show self-pity and lack of interest in the outside world and have no enjoyment of everyday life , even food . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Yet she still finds herself full of frustration and anger towards him . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A sad old woman rose from her chair , as from a dais , to take their coats and hang them on a row of hooks nailed against a wall . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:You may imagine the anguish of the people as this was going on . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She tried to sleep , but she was desperately nervous about tomorrow . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He laughed shortly , little amusement on his face . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:BANGOR 'S Alex Lightbody must be the most bewildered bowler in the NIBA this season . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Vitor went down on his hunkers and , much to the child 's glee , spent a minute or two admiring the toy . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I am pleased that they have responded very positively . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Robots , \" he said , ` gave me a means of venting my anger , \" a remark whose logic baffled me until I read another ` Logic alone can not explain this . \" ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His smile was patient , peeved , and very sad . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Scott ran a hand through his hair , bewilderment on his face . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Relatives often carry enormous personal burdens , for example , the grief of losing a child 's expected bright future , or the tragic decline into senility of a loved companion . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The euphoria and sense of well-being which accompanied the boom years of the 1980s has been replaced by a mood of despondency as companies and individuals experience the effects of a western-style recession . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The newcomers feel cold-shouldered by the local population on occasions and become resentful of their almost tribal clannishness . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was exhilarated when he heard Ornette Coleman improvising free jazz with his plastic saxophone at a club .?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Miss Worthington often felt it would have been an unendurable sorrow to her parents if they had lived to witness the extent of the deterioration . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The animal seemed to take a perverse delight in terrorizing him . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Unfortunately , anxious and stressed people become acutely sensitive to such fluctuations making them worse by their own concern . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Bob Halton , not guilty enough , but confused by his mother 's spoiling and manipulative efforts to keep him for herself , is petrified of being taken over completely . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:What 's so terrible for IMP in that ? \" she blustered , still bewildered why he should find the idea of it so important . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` It was a sort of excitement to him . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:That certainly did n't sound serious enough to account for her great grief . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:For the more depressed and lonely people who have few if any outside contacts , counselling can appear to deepen the very feelings that it is seeking to alleviate , especially in the early stages . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Yeah , but she 's a bit despondent now is n't she , really ? ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Moreover , I disliked the Lady Eleanor intensely , with her sorrowful face and moping ways . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her ladyship looked frightened , shocked . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:On the Left there was some dismay that the reforms were not more dramatic , and especially that wealth was not redistributed more equally . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:That evening she felt no nervousness at all , just excitement , controlled excitement . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As she poured coffee for Jenny and Paul , she felt unbearably sad . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:That comes after growing Irish annoyance at the continued failure of the British to ensure that the RUC accompanies the UDR on all its operations . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The driver watched in astonishment as the car whacked into the side of his vehicle . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her fingers tightened on his hands , hearing the anguish in his voice . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was angry that Bernard had gone too . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Manufacturers could play on the excitement of a commentary to sell their sets . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Emily suddenly felt a surge of elation , she was eager for the new experience of being introduced into what she considered was the world of adulthood . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When another patron tried to step in , the enraged lover flew at him . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She 's in a lot of pain , and is extremely anxious about her condition . \" ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Her brightness was forced and she was clearly nervous at what might be about to happen . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:All he 'd glimpsed through the window was Matta playing solitaire of some kind , so why had the man taken such delight in terrifying him ? ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:AN OXFORDSHIRE reader expresses astonishment that so many of the hotels featured in this column border on Fawlty Towers . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:By comparison , she felt drained and despondent . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I could never have agreed to such a plan , but was pleased at Mick 's change of mood . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Lin Foh blinked , quite astonished at being spoken to so sharply . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Maurice seemed startled . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Determinedly she put her worries and the root cause of her despondency behind her and tried to think more cheerfully . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Not so much a merciful touch , more likely a measure to prevent suddenly terror-stricken passengers from attempting to escape into the crowd . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was getting agitated . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A king not universally popular , who owed his throne to assassination , must have been sensitive on such an issue , and maybe sometimes nervous of joining large assemblies of armed men . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Then she was silent , staring at him with horrified eyes . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` But I feel dismay , sorrow , for so many people in our country who do not share this personal good fortune and who as a result of further years of Tory government will experience further disadvantage . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Sister Cecilia was flushed with vexation . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Country folklore has it that dobies were actually the sad little GHOSTS of unwanted or plain women , who would fumble around the house trying to be useful until their spirits had been exorcised . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His grief-stricken widow destroyed all his cricket clothes and equipment . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:June Barraclough 's A Time to Love ( Methuen , 12.95 ) spans both World Wars and paints a vivid picture of the loves and sorrows of the characters in the lives of two women friends . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:My friend is very anxious about your welfare . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The bank had made no secret of their dismay over Virgin 's venture into airlines . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:After the coming of the man in the night , Miguel had grown glum and thoughtful . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He looked so crestfallen Preston felt sorry for him . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The poor frightened girl packed her things and ran out , saying she was going to Reno for a divorce . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It was performance that drew applause from a press corps relieved to be approaching the end of at least the first election campaign this year , and brought smiles to previously glum ministerial faces . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Two could play the same game , and the Russian was now riled . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She regarded the wife of former Beirut hostage Jackie Mann as a ` dear friend' and was heartbroken she could not see her before she died of lung cancer on November 30 . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When anything important happens you 're stunned , and thrown out for a while , and then you recover ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Doctor McCann turned an exasperated face away and addressed himself to Peg . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It is not uncommon to hear of old women who are cross when asked to perform domestic tasks in residential care ! ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Some horses become excited and upset if something goes a bit wrong when they are in harness , such as chains or ropes becoming entangled around their feet . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Behind the front door hovered a small and wiry man who appeared greatly agitated and whose polished bald head was flushed and sweating profusely in spite of the cold . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The men got resentful of the women working all hours in the co-op . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The night outside was drizzling with rain , and everyone except himself hurried for a cab ; the flower-sellers were disconsolate . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` In fact , \" said Helen , ` I 'm not feeling particularly glum about all this . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was not inconsolable . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Julia , stunned but dry-eyed , had given her statement to the police . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Tennyson discloses that the setting of Mariana is in Shakespeare 's Measure for Measure where the dejected Mariana resides alone in a moated grange . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Headmaster Jim Jones recalled her delight at winning the egg and spoon race . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But his initial anger at finding the latest two victims of the insane killer 's bloodlust , blazed into an all-consuming hatred of the man who had done it . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Libel lawyers are nervous of the word \" lie \" because it implies that a person said something which he knew was untrue . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Seb reached Burford in a state of high excitement only to find that Superintending Constable Aplin was in London . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A surge of elation rushed through his body as he read the note for the third time , unable to believe the implications of what he was reading . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He had understood James 's despair at the enormity of the ruin , but not what the loss of Edward was already meaning . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:And then of course , silly girl , she went and told him -- he was so livid he would n't have nothing more to do with her . \" ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When he took his hand away still saying nothing , she felt slightly hurt and resentful . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The awakened will gives rise to fear of God , sorrow for sin , hope for forgiveness and love of God ( Leah 's first four children ) . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But they are also nervous that the calculations they make in the next two weeks may determine who will win and lose the political battles of the next two years . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As the tartan army drowned its sorrows in the bars of Soho , Frank preferred a candlelit dinner . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Was his sadness tinged with guilt ? ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:THE Government 's cash-before-care NHS shake-up has come under fire -- from sickened hospital managers . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:With horror in her eyes , the nurse stated that the young girl had tearfully told the physician the events that had led to her tragic situation . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:With a grimace , Donal murmured gloomily , ` He was n't exactly ecstatic at my explanation . \" ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The more resentful and unforgiving Willie Morgan , was taken to court and then had to terminate a lucrative six year contract after only nine months . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:While Grant was wakening the kids , he discovered to his dismay that most of the cubicles held four occupants , sleeping in bunk beds . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I 'm getting vexed . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Serena is torn between her sisterly love and her annoyance with Stella 's aggressive insecurity . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` I am supposed to be going there with Sister Agape , but I 'd be pleased if you would take my place . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The reporter , whose English was stilted and hesitant , tried to get an answer from a miffed Atherton who refused saying he had already answered the same question .?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The reporter , treading delicately , had asked if it was a great sorrow to her when she and Walter separated . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Revulsion at injustice , poverty and denied opportunity , he says , impels people to work for a better world . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Because she still sounded mad at me , and I thought you might try to dissuade me . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I was too miserable to giggle , but I wondered if the fiances had when he postured on his lawn . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It linked the poor performance with the exodus to the West of more than 330,000 East Germans disgruntled with Communism . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Dolores felt glum at the sight ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:ALAN Hickman from Derbyshire became worried about the advice he was receiving over his pension transfer when he realised that each expert he consulted recommended a different course of action . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She felt the anguished tears of motherhood blur her vision and blinked them away . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Constant recounting of this tale embroidered it further , describing the woman 's horror as the head , missing the basket , gripped her apron and held on with its teeth ! ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It was a revelation after the pain of trotting and Nails was cross when Nutty brought it to an end . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She was not nervous of Martin Bean . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She looked into his eyes and saw terrible pain and inconsolable grief . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Creggan had never in his short life felt so desolate , and try as he did he could not rest and fall asleep . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The note said Imro was concerned there might be ` similar undetected shenanigans \" in other occupational pension schemes . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:When the peat-brown eyes fixed on hers again , their level gaze showed he had recovered from his astonishment at seeing her . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Rather than match China 's firmness , it can be confidently predicted , the Hong Kong authorities will follow past form , cease muttering about their shock and horror over Tiananmen , and return to bland assurances that the negotiations with Peking about a post-1997 ` Basic Law \" for Hong Kong are going well . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Floy and Snodgrass , unable to look away , were sickened and awed . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Colette works at marshalling our feelings of revulsion at this voracious creature who has almost killed the poor box thorn . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Cranston , too , was thinking about events in the Tower but was too anxious to concentrate on the problems they posed . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:But why does Mr Ross always look sad ? ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:No less a person than Gloria Estefan rang my startled publisher before leaving London , to order the Ology book , because she was crazy for the commercials . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Laura stared up at Ross in stupefied amazement . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Much pressure can overtly or unwittingly be put on grown up children , to provide grandchildren for the delight of the grandparents . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His teachers were suspicious of his popularity , annoyed by his lack of interest in academic work and infuriated that he could still achieve high marks in examinations . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He listened soberly and with growing dismay to what the young bank officer from Jeddah had to say , and scanned the computer printouts across his desk with a practised eye . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Country and Western is suitable for calming an agitated animal ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It was a pretty despondent group that sat around the fire of the LRDG patrol , each sunk in his own thoughts . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Francis was not totally disconsolate and added : ` The way our fans came behind us is the best I 've ever heard it here , and I hope it continues . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Concerned as to whether he was adequately looking after himself , but especially concerned as to his future as a writer . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Just like trippers heading for the Isle of Wight , they had packed their picnic baskets and sat chatting on deck as their excited children played . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Under danger , in the dark , one feels a kind of particular horror at finding oneself alone . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:With such obvious delight in food , it 's hard to see how Blanc remains so slim . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` You 're angry I 'm here , are n't you ? \" ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:She did n't want to get sad now , not now after it had been so good . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Peter says : ` The Poles were furious that we wanted to show prostitutes in their hotel bar , claiming they never had them . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He felt increasingly irritated and despondent . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Charles opened his eyes warily , disgruntled at being dragged out of his dream . ?",
+        "input": "",
+        "output": "disgust",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was astonished at the change in him . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:` Money is my motivation , but what keeps me at the top is that I 'm petrified of losing . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It was also due to a barbaric delight in high-sounding verbiage , and probably this was the most powerful reason for its use . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The boy gave a nervous smile ; Jean-Paul gestured to the waiter . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:My heart was thumping with disquiet . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was court martialled but to the anger of the unpopular Governor , was acquitted . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They seemed anxious and hesitant about leaving , as if uncertain of which direction to take . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:The pretty young undergraduate felt elated . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:I was miserable with cold , but although I was prepared to admit that I was miserable , I was n't prepared to admit that my misery had any connection with cold . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Shadow ministers , who had been behaving as if they were about to move into Whitehall , looked stunned and shattered . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:How nervous the teacher feels about using this teaching unit . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:There was a nervous laugh at this topical sally provided by the Zola trial . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A spokesperson said : ` Glen is furious that the new ` Anarchy \" promo features footage of Sid Vicious as well as himself . ?",
+        "input": "",
+        "output": "anger",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:As Antoinette grew weaker , and left her bed hardly at all , she became frightened to be left alone . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:A delighted , if somewhat bewildered smile tugging at her own mouth , her eyes alight with laughter , she watched him melt into the crowds . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Mr Kinnock says the Prime Minister is too frightened to debate the issue . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:He was still more worried about the extensive rewriting of history that school text-books had been subjected to ; something of which most of us remained unaware until after the Second World War . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Feeling a little frightened of the dead body behind him in the cart , and depressed by the autumn fog , he stopped for some beer at a pub , where he met Jan Coggan and Laban Tall . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Gary 's expression became even more anxious . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:His liquid eyes were sorrowful and the ends of his moustache drooped . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Sometimes our bodies and minds seek excuses to experience griefs that we may have put aside or denied because we could n't face them at the time . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:In spite of her grief at being parted from her cousins , she could not help but feel excited . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:They looked like a crowd of frightened children . ?",
+        "input": "",
+        "output": "fear",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Gloom , on the other hand , sees a noisy , grimy city with crowded underground stations , overpriced restaurants , jostling strangers and mournful faces . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Returning to the campuses in a state of excitement , they sensed victory over the authorities , but had to secure the release of their arrested colleagues . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Lomponda wa Botende , a former Chief of Staff , expressed his astonishment at the report , and the Defence Ministry denied that any coup attempt had been made . ?",
+        "input": "",
+        "output": "surprise",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:Li Yuan was smiling broadly , pleased with himself , proud of his scheme , and delighted that he had Tsu Ma 's approval . ?",
+        "input": "",
+        "output": "joy",
+        "system": "",
+        "history": ""
+    },
+    {
+        "instruction": "Classify the sentiment of the following text into one of these categories:anger,disgust,fear,joy,sadness,surprise:It is her whole situation -- she is so mournful and silently accusing and sometimes , Robert , I think her as mad as Landor with all this nonsense she makes of the Bible from time to time . ?",
+        "input": "",
+        "output": "sadness",
+        "system": "",
+        "history": ""
+    }
+]
