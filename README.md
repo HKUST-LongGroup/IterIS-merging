@@ -91,9 +91,9 @@ Use the following command to merge LoRAs based on the specific task:
 python IterIS.py --task_type <TASK_NAME>
 ```
 Supported task types:  
-- `TASKS_blip_base` → Merges POS and NEG LoRAs  
-- `GLUE_t5` → Merges LoRAs for GLUE tasks  
-- `EMOTION_t5_large` → Merges LoRAs for emotion classification tasks  
+- `TASKS_blip_base` → Merges POS and NEG LoRAs for V&L part
+- `GLUE_t5` → Merges GLUE LoRAs for LLM part (Multi-task)
+- `EMOTION_t5_large` → Merges emotion classification LoRAs for LLM part (In-domain)
 
 You can customize the merging settings in `./config/methods-config/iteris-config.yaml`. Additional command-line parameters are available to control whether to save the merged model. 
 
