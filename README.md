@@ -1,6 +1,6 @@
 # IterIS: Iterative Inference-Solving Alignment for LoRA Merging ([CVPR 2025](https://cvpr.thecvf.com/))
 
-- Authors: [Hongxu Chen](https://ustcchx.github.io/hongxuchen.github.io/), [Bowei Zhu](https://www.linkedin.com/in/%E6%9F%8F%E8%8B%87-%E6%9C%B1-60b620335/), [Zhen Wang](https://github.com/baaaad), [Runshi Li](https://orcid.org/0009-0008-6586-4914), and [Long Chen](https://zjuchenlong.github.io/)
+- Code Contributor: [Hongxu Chen](https://ustcchx.github.io/hongxuchen.github.io/), [Bowei Zhu](https://www.linkedin.com/in/%E6%9F%8F%E8%8B%87-%E6%9C%B1-60b620335/), [Zhen Wang](https://github.com/baaaad), [Runshi Li](https://orcid.org/0009-0008-6586-4914), and [Long Chen](https://zjuchenlong.github.io/)
 - Paper: [arXiv](https://arxiv.org/pdf/2411.15231)
 
 <img src="images/IterIS-merging.png" alt="teaser image" width="800"/>
